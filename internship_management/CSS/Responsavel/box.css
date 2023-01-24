@@ -1,0 +1,25 @@
+.box {
+    float: right;
+    height: 20px;
+    width: 20px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border: 1px solid black;
+    clear: both;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    color: white;
+    border-radius: 25px;
+    border: 25px;
+  }
+  
+  .red {
+    background-color: rgb(157, 28, 28);
+  }
+  
+  .green {
+    background-color: green;
+  }
